@@ -90,3 +90,5 @@ clientevp.addcarrito(item1)
 clienteNormal.calcular_total()
 clientevp.calcular_total()
 """
+
+print("Toma puto")
